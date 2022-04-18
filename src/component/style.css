@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: center;
+    margin: 0;
+    padding: 0;
+}
+.produk{
+    align-content: center;
+}
+.produk img{
+    width: 250px;
+}
